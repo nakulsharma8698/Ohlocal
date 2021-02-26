@@ -1,0 +1,199 @@
+[
+  {
+    "prod_ID": 1,
+    "title": "Corn Flakes 250 g",
+    "brand": "Kellogs",
+    "price": 200,
+    "discount": 10,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233961/kellogs_corn_flakes_qd2ima.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 2,
+    "title": "Chocos 250 g",
+    "brand": "Kellogs",
+    "price": 200,
+    "discount": 10,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233960/kellogs_chocos_jmjdqd.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 3,
+    "title": "Hide & Seek 33 g",
+    "brand": "Parle",
+    "price": 30,
+    "discount": 5,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233959/hide_seek_vz35iw.webp",
+    "quant": 100
+  },
+{
+    "prod_ID": 4,
+    "title": "Dark Fantasy 75 g",
+    "brand": "Sunfeast",
+    "price": 30,
+    "discount": 5,
+    "seller": "XYZ",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233958/dark_fantasy_jkx7g1.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 5,
+    "title": "Lays 50 g",
+    "brand": "",
+    "price": 20,
+    "discount": 0,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233960/lays_e1hlg5.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 6,
+    "title": "Kurkure 50 g",
+    "brand": "",
+    "price": 20,
+    "discount": 0,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233960/kurkure_oxlx5i.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 7,
+    "title": "Taja Mahal 500 g",
+    "brand": "Brook Bond",
+    "price": 300,
+    "discount": 20,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233963/taj_mahal_uzlef2.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 8,
+    "title": "Tea Premium 500 g",
+    "brand": "Tata",
+    "price": 250,
+    "discount": 20,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233962/tata_tea_hjyanh.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 9,
+    "title": "White Sugar 1 Kg",
+    "brand": "Madhur",
+    "price": 50,
+    "discount": 10,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233962/sugar_oq6tqc.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 10,
+    "title": "Salt 1 Kg",
+    "brand": "Tata",
+    "price": 25,
+    "discount": 2,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233961/salt_t3aaig.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 11,
+    "title": "Basmati Rice 5 Kg",
+    "brand": "India Gate",
+    "price": 400,
+    "discount": 20,
+    "seller": "ABC",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233962/rice1_gdgna5.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 12,
+    "title": "Brown Basmati Rice 5 Kg",
+    "brand": "Dawat",
+    "price": 500,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233959/daawat_ebj5ac.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 13,
+    "title": "Aata 5 Kg",
+    "brand": "Aashirwaad",
+    "price": 350,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233959/aata_yuh8bl.webp",
+    "quant": 100
+  },
+{
+    "prod_ID": 14,
+    "title": "Maggi 200 g",
+    "brand": "Nestle",
+    "price": 50,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233961/maggi_yxtm8w.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 15,
+    "title": "Toothpaste 200 g",
+    "brand": "Pepsodent",
+    "price": 150,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233961/paste_iizoc4.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 16,
+    "title": "Detergent 1 Kg",
+    "brand": "Surf-Excel",
+    "price": 150,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233961/surf_ltqyt4.jpg",
+    "quant": 100
+  },
+{
+    "prod_ID": 17,
+    "title": "Cool Soap Pack of 4 100 g",
+    "brand": "Dettol",
+    "price": 200,
+    "discount": 20,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233959/detool_nol3ol.jpg",
+    "quant": 100
+  },{
+    "prod_ID": 18,
+    "title": "Soap pack of 4 100 g",
+    "brand": "Lifebouy",
+    "price": 10,
+    "discount": 5,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614234056/life_znwkdh.jpg",
+    "quant": 100
+  },{
+    "prod_ID": 19,
+    "title": "Shampoo 300 ml",
+    "brand": "Dove",
+    "price": 300,
+    "discount": 10,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233959/dove_zld5jv.jpg",
+    "quant": 100
+  },{
+    "prod_ID": 20,
+    "title": "Aloe Fresh 200 ml",
+    "brand": "Vaseline",
+    "price": 200,
+    "discount": 5,
+    "seller": "PQR",
+    "image": "https://res.cloudinary.com/maidinindia/image/upload/v1614233963/vaseline_oyg1ha.webp",
+    "quant": 100
+  }
+]
